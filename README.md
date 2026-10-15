@@ -1,3 +1,4 @@
+![Uploading Gemini_Generated_Image_eg0eoeeg0eoeeg0e.png…]()
 
 # 🏦 NeoBank – Metadata-Driven Incremental Lakehouse on Databricks
 
