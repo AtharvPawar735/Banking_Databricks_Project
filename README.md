@@ -1,4 +1,4 @@
-# Banking_Databricks_Project
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85662679-fcf3-4346-a9be-279be45277a2" /># Banking_Databricks_Project
 
 # 🏦 NeoBank – Metadata-Driven Incremental Lakehouse on Databricks
 
